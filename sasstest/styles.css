@@ -1,0 +1,19 @@
+html, body {
+  margin: 0;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+*,
+*::after,
+*::before {
+  -webkit-box-sizing: inherit;
+          box-sizing: inherit;
+}
+
+h1 {
+  color: red;
+}
+/*# sourceMappingURL=styles.css.map */
